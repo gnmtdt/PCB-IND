@@ -50,8 +50,6 @@ yolo detect train data=data.yaml model=yolov8n.pt
 ## License
 This dataset is released under the **CC BY 4.0** license.
 
-## Authors
-Hao Yan, Key Laboratory of Nondestructive Testing, School of Electronic and Mechanical Engineering, Fujian Polytechnic Normal University, Fuqing 350300, China
 
 ---
 Generated on 2025-12-21
